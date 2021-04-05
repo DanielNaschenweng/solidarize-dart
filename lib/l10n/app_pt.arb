@@ -1,0 +1,70 @@
+{
+    "usernameNotExists": "Usuário não existe.",
+    "@usernameNotExists": {
+        "description": "Mensagem de erro quando o usuário não é encontrado."
+    },
+    "passwordDoesNotMatch": "Senha não confere.",
+    "@passwordDoesNotMatch": {
+        "description": "Mensagem de erro quando a senha não confere"
+    },
+    "usernameHint": "Nome do Usuário",
+    "@usernameHint": {
+        "description": "Dica para usuário nome."
+    },
+    "passwordHint": "Senha do Usuário",
+    "@passwordHint": {
+        "description": "Senha do Usuário."
+    },
+    "confirmPasswordHint": "Confirmado",
+    "@confirmPasswordHint": {
+        "description": "Dica de senha sonfirmada"
+    },
+    "forgotPasswordButton": "Esqueceu a senha?",
+    "@forgotPasswordButton": {
+        "description": "Esqueceu a senha texto do botão"
+    },
+    "loginButton": "USUÁRIO",
+    "@loginButton": {
+        "description": "Texto do botão de usuário"
+    },
+    "signupButton": "CADASTRE-SE",
+    "@signupButton": {
+        "description": "Texto do botão de cadastro"
+    },
+    "recoverPasswordButton": "Recuperar Senha",
+    "@recoverPasswordButton": {
+        "description": "Texto do botão de recuperar senha"
+    },
+    "goBackButton": "VOLTAR",
+    "@goBackButton": {
+        "description": "Texto do botão de retorno para a tela de login vindo da tela de recuperação de senha"
+    },
+    "confirmPasswordError": "Senhas não conferem!",
+    "@confirmPasswordError": {
+        "description": "Mensagem de erro quando a senha não confere com a senha original"
+    },
+    "recoverPasswordSuccess": "Senha recuperada com sucesso!",
+    "@recoverPasswordSuccess": {
+        "description": "Mensagem de sucesso na recuperação da senha"
+    },
+    "recoverPasswordIntro": "Reinicie sua senha aqui.",
+    "@recoverPasswordIntro": {
+        "description": "Introdução na entrada da recuperação de senha"
+    },
+    "recoverPasswordDescription": "Nós iremos enviar sua senha para seu e-mail.",
+    "@recoverPasswordIntro": {
+        "description": "Descrição na tela de recuperação de senha"
+    },
+    "flushbarTitleError": "Erro de autenticação",
+    "@flushbarTitleError": {
+        "description": "Título da barra de mensagem de erro"
+    },
+    "flushbarTitleSuccess": "Entrou!",
+    "@flushbarTitleSuccess": {
+        "description": "Título da barra de mensagem de sucesso"
+    },
+    "logoffButton": "Sair",
+    "@logoffButton": {
+        "description": "Texto do Botão de sair."
+    }
+}

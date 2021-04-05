@@ -1,0 +1,70 @@
+{
+  "usernameNotExists": "Username not exists.",
+  "@usernameNotExists": {
+    "description": "Error message to show when user doesn't found."
+  },
+  "passwordDoesNotMatch": "Password does not match",
+  "@passwordDoesNotMatch": {
+    "description": "Error message to show when password doesn't math."
+  },
+  "usernameHint": "Username",
+  "@usernameHint": {
+    "description": "Hint text of the user name."
+  },
+  "passwordHint": "Pass",
+  "@passwordHint": {
+    "description": "Hint text of the password."
+  },
+  "confirmPasswordHint": "Confirm",
+  "@confirmPasswordHint": {
+    "description": "Hint text of the confirm password"
+  },
+  "forgotPasswordButton": "Forgot huh?",
+  "@forgotPasswordButton": {
+    "description": "Forgot password button's label"
+  },
+  "loginButton": "LOGIN",
+  "@loginButton": {
+    "description": "Login button's label"
+  },
+  "signupButton": "SIGN UP",
+  "@signupButton": {
+    "description": "Sign up button's label"
+  },
+  "recoverPasswordButton": "HELP ME",
+  "@recoverPasswordButton": {
+    "description": "Recover password button's label"
+  },
+  "goBackButton": "GO BACK",
+  "@goBackButton": {
+    "description": "Go back button's label. Go back button is used to go back to to login/signup form from the recover password form"
+  },
+  "confirmPasswordError": "Not match!",
+  "@confirmPasswordError": {
+    "description": "The error message to show when the confirm password not match with the original password"
+  },
+  "recoverPasswordSuccess": "Login recover success!",
+  "@recoverPasswordSuccess": {
+    "description": "The success message to show after submitting recover password"
+  },
+  "recoverPasswordIntro": "Reset your password here.",
+  "@recoverPasswordIntro": {
+    "description": "Intro in password recovery form"
+  },
+  "recoverPasswordDescription": "We will send your plain-text password to this email account.",
+  "@recoverPasswordIntro": {
+    "description": "Description in password recovery form"
+  },
+  "flushbarTitleError": "Login Error",
+  "@flushbarTitleError": {
+    "description": "The Flushbar title on errors"
+  },
+  "flushbarTitleSuccess": "Login Sucess!",
+  "@flushbarTitleSuccess": {
+    "description": "The Flushbar title on sucesses"
+  },
+  "logoffButton": "Logoff",
+  "@logoffButton": {
+    "description": "Logoff button's label"
+  }
+}
