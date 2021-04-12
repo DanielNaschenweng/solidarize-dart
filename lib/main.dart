@@ -33,7 +33,7 @@ class IntesangoApp extends StatelessWidget {
           ) {
           return locale;
         },
-      //locale: Locale('pt', 'BR'), // Brazilian Portuguese7
+      locale: Locale('pt', 'BR'), // Brazilian Portuguese7
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),

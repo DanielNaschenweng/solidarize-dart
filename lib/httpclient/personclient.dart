@@ -8,7 +8,7 @@ class PersonClient{
     HttpClient client = new HttpClient();
     final String url = 'https://'+Const.hostServer+':'+Const.hostPort.toString().trim()+'/api/person/login/'+login;
      client.getUrl(Uri.parse(url))
-        ..then((HttpClientRequest request) {
+        .then((HttpClientRequest request) {
       // Optionally set up headers...
       // Optionally write to the request object...
       // Then call close.
