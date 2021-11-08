@@ -7,10 +7,10 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 
 void main() {
-  runApp(IntesangoApp());
+  runApp(solidarizeApp());
 }
 
-class IntesangoApp extends StatelessWidget {
+class solidarizeApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
@@ -35,7 +35,8 @@ class IntesangoApp extends StatelessWidget {
         },
       locale: Locale('pt', 'BR'), // Brazilian Portuguese7
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.indigo,
+        backgroundColor: Colors.white,
       ),
       home: LoginScreen(),
       routes: {

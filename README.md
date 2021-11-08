@@ -1,6 +1,6 @@
-# intersango_flutter_app
+# hachkamarte_app
 
-App para escabo de mercadorias
+Texto descritivo do projeto
 
 ## Getting Started
 

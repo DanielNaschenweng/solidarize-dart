@@ -98,6 +98,7 @@ class _LoginScreenState extends State<LoginScreen> {
       logo: 'images/logo.png',
       onLogin: _authUser,
       onSignup: _authUser,
+      theme: LoginTheme(footerBackgroundColor: Colors.white, pageColorLight: Colors.white, pageColorDark: Colors.indigo),
       // loginProviders: <LoginProvider> [LoginProvider(
       //   icon: FontAwesomeIcons.google,
       //   callback: () async {

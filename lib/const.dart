@@ -1,6 +1,6 @@
 class Const {
-  static String titleApp = 'Intersango';
-  static String hostServer = '192.168.0.4';
+  static String titleApp = 'Solidarize';
+  static String hostServer = 'localhost';
   static int hostPort  = 8080;
 
   Const();
